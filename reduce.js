@@ -20,5 +20,3 @@ const ep_details = ((objects, selected_programme) => {
       .ep_info.filter((ep) => ep.selected_programme === selected_programme)
       .map((ep) => ep);
 })
-
-console.log(JSON.stringify(ep_details(objects, 'GT'), null, 2));

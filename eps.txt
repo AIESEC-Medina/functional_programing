@@ -1,0 +1,7 @@
+ep_details	nabil mediouni	GT	20	
+ep_details	hassen dridi	GE	24	
+ep_details	ch3ar bouafia	GE	28	
+ep_info	aziz gattousi	GV	18	
+ep_info	ameny ben kadour	GV	19	
+ep_info	chadi guitni	GT	21	
+ep_details	amal wsl	GV	26	

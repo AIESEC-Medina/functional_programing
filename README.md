@@ -4,6 +4,10 @@
 
 Run:
 
+```sh
 node index
+```
 
+```sh
 node reduce
+```
